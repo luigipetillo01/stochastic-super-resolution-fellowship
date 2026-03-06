@@ -7,7 +7,7 @@ This repository contains the final presentation for my 3weeks-research internshi
 The project focused on a classical **Monte-Carlo simulation** to study the imaging of atoms in a 2D-lattice. We explored stochastic methods to overcome standard resolution limits in quantum gas experiments.
 
 ## Contents
-* **[Presentation (PDF)](Link-al-tuo-file.pdf)**: Detailed overview of the theoretical framework, simulation parameters, and results.
+* **[Presentation (PDF)](https://github.com/luigipetillo01/stochastic-super-resolution-fellowship/blob/main/PRESENTATION_StochasticSuperResolution.pdf)**: Detailed overview of the theoretical framework, simulation parameters, and results.
 * **Abstract**: Brief discussion on the numerical approach used for lattice imaging.
 
 ## Note on Code Access
