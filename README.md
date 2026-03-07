@@ -10,6 +10,6 @@ The project focused on a classical **Monte-Carlo simulation** to study the imagi
 *📄 **[Presentation (PDF)](https://github.com/luigipetillo01/stochastic-super-resolution-fellowship/blob/main/PRESENTATION_StochasticSuperResolution.pdf)**: Detailed overview of the theoretical framework, simulation parameters, and results.
 
 ## Note on Code Access
-The original simulation scripts (Python/Cadabra) are hosted in a **private repository** to respect the data privacy and ongoing research of the Ferlaino Group. For specific inquiries regarding the implementation, please contact me directly.
+The original simulation scripts (Python) are hosted in a **private repository** to respect the data privacy and ongoing research of the Ferlaino Group. For specific inquiries regarding the implementation, please contact me directly.
 
 **Supervisors:** Arfor Houwman, Prof. Francesca Ferlaino.
