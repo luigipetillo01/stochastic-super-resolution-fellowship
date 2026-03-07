@@ -12,4 +12,4 @@ The project focused on a classical **Monte-Carlo simulation** to study the imagi
 ## Note on Code Access
 The original simulation scripts (Python) are hosted in a **private repository** to respect the data privacy and ongoing research of the Ferlaino Group. For specific inquiries regarding the implementation, please contact me directly.
 
-**Supervisors:** Arfor Houwman, Prof. Francesca Ferlaino.
+**Supervisors:** Dr. Arfor Houwman, Prof. Francesca Ferlaino.
